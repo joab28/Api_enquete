@@ -3,5 +3,5 @@ export interface httpResponse {
   body: any
 }
 export interface httpRequest {
-  body?: any
+  body: any
 }
